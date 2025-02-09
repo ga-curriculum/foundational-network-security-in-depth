@@ -1,21 +1,21 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Network Security</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+In this module, students will develop a comprehensive understanding of foundational network security concepts, analyze how specific security tools and practices contribute to a defense-in-depth strategy, and learn to apply best practices for effective incident response in a network security context.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| [Securing Data in Transit](./securing-data-in-transit/README.md)                          | 15 min | Understand how SSL/TLS and IPSec protocols work together to secure data transmitted over networks as part of a layered defense strategy. |
+| [Detecting Threats](./detecting-threats/README.md)                    | 15 min | Learn how IPS, IDS and SIEM tools detect network threats through traffic analysis, log correlation and anomaly identification.               |
+| [Network-Specific Incident Response Practices](./network-ir-practices/README.md) | 15 min | Gain expertise in the key steps and best practices of incident response in a network security context.                |
+| [Putting It All Together](./putting-it-all-together/README.md) | 15 min | Develop the ability to synthesize technical controls, policies, processes and security culture into a comprehensive network security strategy.               |
+| **Total content**                                   | 60 min |                                     |
 
 ## References
 
@@ -25,32 +25,12 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
+- None
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/network-security/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/network-security/canvas-landing-pages/fallback.html)
 
 ### Resources
 
