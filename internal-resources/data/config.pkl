@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Network Security"
+  friendlyName = "Foundational Network Security In-Depth"
   // This must match the repo name as it appears on GitHub exactly
-  name = "network-security"
+  name = "foundational-network-security-in-depth"
   type = "Lesson"
 }
 
@@ -24,10 +24,10 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.securingDataInTransit
-      mls.detectingThreats
-      mls.networkIrPractices
-      mls.puttingItAllTogether
+      mls.securingDataInTransitWithSslTlsAndIpsec
+      mls.detectingThreatsWithIpsIdsAndSiemTools
+      mls.networkSpecificIncidentResponseIrPractices
+      mls.aComprehensiveNetworkSecurityStrategy
     }
   }
     new {
@@ -35,10 +35,10 @@ courses {
     name = "itb"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.securingDataInTransit
-      mls.detectingThreats
-      mls.networkIrPractices
-      mls.puttingItAllTogether
+      mls.securingDataInTransitWithSslTlsAndIpsec
+      mls.detectingThreatsWithIpsIdsAndSiemTools
+      mls.networkSpecificIncidentResponseIrPractices
+      mls.aComprehensiveNetworkSecurityStrategy
     }
   }
 }

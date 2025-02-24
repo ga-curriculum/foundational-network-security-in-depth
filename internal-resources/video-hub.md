@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Network Security</span>
+  <span class="headline">Foundational Network Security In-Depth</span>
   <span class="subhead">Video Hub</span>
 </h1>
 

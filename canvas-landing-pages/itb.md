@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">Network Security</span>
+  <span class="headline">Foundational Network Security In-Depth</span>
 </h1>
 
 ## About

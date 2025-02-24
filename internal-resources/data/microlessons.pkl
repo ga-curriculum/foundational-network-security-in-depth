@@ -2,30 +2,30 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-securingDataInTransit = new Template.Microlesson {
-  friendlyName = "Securing Data in Transit"
-  dirName = "securing-data-in-transit"
+securingDataInTransitWithSslTlsAndIpsec = new Template.Microlesson {
+  friendlyName = "Securing Data in Transit with SSL/TLS and IPsec"
+  dirName = "securing-data-in-transit-with-ssl-tls-and-ipsec"
   type = "Content"
   videoUrl = ""
 }
 
-detectingThreats = new Template.Microlesson {
-  friendlyName = "Detecting Threats"
-  dirName = "detecting-threats"
+detectingThreatsWithIpsIdsAndSiemTools = new Template.Microlesson {
+  friendlyName = "Detecting Threats with IPS/IDS and SIEM Tools"
+  dirName = "detecting-threats-with-ips-ids-and-siem-tools"
   type = "Content"
   videoUrl = ""
 }
 
-networkIrPractices = new Template.Microlesson {
-  friendlyName = "Network-Specific Incident Response Practices"
-  dirName = "network-ir-practices"
+networkSpecificIncidentResponseIrPractices = new Template.Microlesson {
+  friendlyName = "Network-Specific Incident Response (IR) Practices"
+  dirName = "network-specific-incident-response-ir-practices"
   type = "Content"
   videoUrl = ""
 }
 
-puttingItAllTogether = new Template.Microlesson {
-  friendlyName = "Putting It All Together"
-  dirName = "putting-it-all-together"
+aComprehensiveNetworkSecurityStrategy = new Template.Microlesson {
+  friendlyName = "A Comprehensive Network Security Strategy"
+  dirName = "a-comprehensive-network-security-strategy"
   type = "Content"
   videoUrl = ""
 }

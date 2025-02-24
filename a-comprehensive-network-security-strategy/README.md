@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Network Security</span>
-  <span class="subhead">Putting It All Together: A Comprehensive Network Security Strategy</span>
+  <span class="headline">Foundational Network Security In-Depth</span>
+  <span class="subhead">A Comprehensive Network Security Strategy</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to synthesize the concepts, tools, and practices covered in this module into a comprehensive network security strategy. 

@@ -1,6 +1,6 @@
 <h1>
-  <span class="headline">Network Security</span>
-  <span class="subhead">Network-Specific Incident Response Practices</span>
+  <span class="headline">Foundational Network Security In-Depth</span>
+  <span class="subhead">Network-Specific Incident Response (IR) Practices</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to understand the key steps of incident response in a network security context and learn best practices for developing an effective network incident response plan.

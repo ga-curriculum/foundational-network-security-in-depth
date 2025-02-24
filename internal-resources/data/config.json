@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "Network Security",
-    "name": "network-security",
+    "friendlyName": "Foundational Network Security In-Depth",
+    "name": "foundational-network-security-in-depth",
     "type": "Lesson",
     "about": "",
     "starterCode": "",
@@ -20,8 +20,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Securing Data in Transit",
-          "dirName": "securing-data-in-transit",
+          "friendlyName": "Securing Data in Transit with SSL/TLS and IPsec",
+          "dirName": "securing-data-in-transit-with-ssl-tls-and-ipsec",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Detecting Threats",
-          "dirName": "detecting-threats",
+          "friendlyName": "Detecting Threats with IPS/IDS and SIEM Tools",
+          "dirName": "detecting-threats-with-ips-ids-and-siem-tools",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -40,8 +40,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Network-Specific Incident Response Practices",
-          "dirName": "network-ir-practices",
+          "friendlyName": "Network-Specific Incident Response (IR) Practices",
+          "dirName": "network-specific-incident-response-ir-practices",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -50,8 +50,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Putting It All Together",
-          "dirName": "putting-it-all-together",
+          "friendlyName": "A Comprehensive Network Security Strategy",
+          "dirName": "a-comprehensive-network-security-strategy",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -89,8 +89,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Securing Data in Transit",
-          "dirName": "securing-data-in-transit",
+          "friendlyName": "Securing Data in Transit with SSL/TLS and IPsec",
+          "dirName": "securing-data-in-transit-with-ssl-tls-and-ipsec",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -99,8 +99,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Detecting Threats",
-          "dirName": "detecting-threats",
+          "friendlyName": "Detecting Threats with IPS/IDS and SIEM Tools",
+          "dirName": "detecting-threats-with-ips-ids-and-siem-tools",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -109,8 +109,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Network-Specific Incident Response Practices",
-          "dirName": "network-ir-practices",
+          "friendlyName": "Network-Specific Incident Response (IR) Practices",
+          "dirName": "network-specific-incident-response-ir-practices",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -119,8 +119,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Putting It All Together",
-          "dirName": "putting-it-all-together",
+          "friendlyName": "A Comprehensive Network Security Strategy",
+          "dirName": "a-comprehensive-network-security-strategy",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
